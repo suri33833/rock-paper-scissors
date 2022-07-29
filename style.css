@@ -1,0 +1,30 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}.header{
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: x-large;
+}
+.batan{
+    display: flex;
+    background-color: blueviolet;
+    height: 8vh;
+    justify-content: center;
+    padding: 8px;
+    gap: 5px;
+}
+button{
+    padding: 3px;
+}
+.resultupdate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    background-color: bisque;
+    color: crimson;
+}
